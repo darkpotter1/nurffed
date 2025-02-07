@@ -20,7 +20,7 @@
                     var found = false;
                     for (var i = 0; i < players.length; i++) {
                         var name = players[i].getAttribute("name");
-                        if (name.toLowerCase().includes(input.toLowerCase())) {
+                        if (name.toLowerCase()===(input.toLowerCase())) {
                             found = true;
                             resultDiv.innerHTML += "<p>Намерено съвпадение: " + name + " (настоящо: " + players[i].getAttribute("net") + ", общо: " + players[i].getAttribute("total") + ")</p>";
                         }
