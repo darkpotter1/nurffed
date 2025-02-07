@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>КИМУРА</title>
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+    
+
     <style> body {background-image: url('images/background.png');
                     background-repeat: no-repeat;
                     background-size: cover;
@@ -50,9 +52,9 @@
 <body>
     <h1>Проверка на DKP</h1>
     <label for="searchInput">Въведете име на играч : <br/></label>
-    <input type="text" id="searchInput">
-    <button onclick="searchXML()">Търсене</button>
-
+    <input type="text" id="searchInput" autocomplete="off">
+    <button id="btn" onclick="searchXML()">Търсене</button>
+    <script src="./event_listener.js"></script>
     <div id="result"></div>
 </body>
 </html>
