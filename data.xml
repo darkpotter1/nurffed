@@ -1,39 +1,49 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
-<QDKP2EXPORT-DKP list="guild" time="1739197108" guild="Kimura" exporter="Labav" >
-  <PLAYER name="Arlamalon" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Caladrin" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Kulvacha" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Rumpi" class="Mage" rank="Test" net="600" total="600" spent="0" hours="0" />
-  <PLAYER name="Catmagnet" class="Hunter" rank="Member" net="100" total="100" spent="0" hours="0" />
+<QDKP2EXPORT-DKP list="guild" time="1739376621" guild="Kimura" exporter="Labav" >
+  <PLAYER name="Zollron" class="Paladin" rank="Nakazan=Kick" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Bimboxax" class="Warrior" rank="Test" net="150" total="150" spent="0" hours="0" />
+  <PLAYER name="Celestiial" class="Priest" rank="Test" net="300" total="350" spent="50" hours="0" />
+  <PLAYER name="Dudukon" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Freyagodx" class="Shaman" rank="Test" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Savagedenka" class="Warlock" rank="Test" net="200" total="200" spent="0" hours="0" />
+  <PLAYER name="Zarazniq" class="Warrior" rank="Test" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Dahappytree" class="Druid" rank="Member" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Mogege" class="Mage" rank="Member" net="1760" total="4400" spent="2640" hours="0" />
+  <PLAYER name="Amoreith" main="Kzena" class="Druid" rank="Alt" net="2100" total="2100" spent="0" hours="0" />
   <PLAYER name="Badsurprise" main="Batsa" class="Rogue" rank="Alt" net="2320" total="3820" spent="1500" hours="0" />
-  <PLAYER name="Dudubgbg" class="Druid" rank="Alt" net="50" total="50" spent="0" hours="0" />
-  <PLAYER name="Kurzaushev" class="Priest" rank="Alt" net="50" total="50" spent="0" hours="0" />
-  <PLAYER name="Palkamalka" main="Borqnka" class="Paladin" rank="Alt" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Furionfury" main="Justpretty" class="Warrior" rank="Alt" net="2310" total="4320" spent="2010" hours="0" />
+  <PLAYER name="Livingmoogo" main="Drunkblade" class="Death Knight" rank="Alt" net="2040" total="6095" spent="4055" hours="0" />
+  <PLAYER name="Mahovik" main="Whitewarrs" class="Mage" rank="Alt" net="250" total="250" spent="0" hours="0" />
+  <PLAYER name="Nedislav" main="Crucioqq" class="Priest" rank="Alt" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Qpataq" main="Kartecharov" class="Priest" rank="Alt" net="900" total="1000" spent="100" hours="0" />
+  <PLAYER name="Theshadowed" main="Troposphere" class="Priest" rank="Alt" net="1810" total="6000" spent="4190" hours="0" />
+  <PLAYER name="Justpretty" class="Paladin" rank="Veteran" net="2310" total="4320" spent="2010" hours="0" />
+  <PLAYER name="Notmissqt" class="Death Knight" rank="Veteran" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Spaso" main="Phanya" class="Death Knight" rank="Veteran" net="1660" total="5150" spent="3490" hours="0" />
+  <PLAYER name="Catterpilar" main="Phanya" class="Druid" rank="Officer" net="1660" total="5150" spent="3490" hours="0" />
   <PLAYER name="Labav" class="Priest" rank="Officer" net="1430" total="2550" spent="1120" hours="0" />
   <PLAYER name="Wankatta" class="Hunter" rank="Nakazan=Kick" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Bagrqna" class="Death Knight" rank="Nakazan=Kick" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Heriya" class="Paladin" rank="Nakazan=Kick" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Justberta" class="Rogue" rank="Nakazan=Kick" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Zollron" class="Paladin" rank="Nakazan=Kick" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Kuchka" class="Priest" rank="Test" net="2380" total="2400" spent="20" hours="0" />
   <PLAYER name="Kaytka" class="Mage" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Battlegrip" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Solvias" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Reblly" class="Paladin" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Doublemort" class="Priest" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Brunerth" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Adnanbeats" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Agared" class="Paladin" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Agonisst" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Altmacka" class="Druid" rank="Test" net="350" total="350" spent="0" hours="0" />
   <PLAYER name="Andas" class="Paladin" rank="Test" net="-50" total="100" spent="150" hours="0" />
   <PLAYER name="Antiisex" class="Warlock" rank="Test" net="150" total="150" spent="0" hours="0" />
   <PLAYER name="Antydote" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Arlamalon" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Bahlle" class="Paladin" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Belinara" class="Rogue" rank="Test" net="150" total="200" spent="50" hours="0" />
-  <PLAYER name="Bimboxax" class="Warrior" rank="Test" net="150" total="150" spent="0" hours="0" />
   <PLAYER name="Bleak" class="Paladin" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Bulgerean" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Celestiial" class="Priest" rank="Test" net="300" total="350" spent="50" hours="0" />
+  <PLAYER name="Caladrin" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Conty" class="Paladin" rank="Test" net="70" total="100" spent="30" hours="0" />
   <PLAYER name="Crazymama" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Criplingx" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
@@ -49,17 +59,16 @@
   <PLAYER name="Divinish" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Dogelonmars" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Doggies" class="Shaman" rank="Test" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Drrak" main="Zitta" class="Druid" rank="Test" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Drrak" main="Zitta" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Druofdead" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Dsotirov" class="Mage" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Dtraaxx" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Dudukon" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Dundurak" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ellucifer" class="Death Knight" rank="Test" net="50" total="50" spent="0" hours="0" />
   <PLAYER name="Eloris" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Fatalanal" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Fckingtot" class="Rogue" rank="Test" net="500" total="1650" spent="1150" hours="0" />
   <PLAYER name="Feorade" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Freyagodx" class="Shaman" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Gerilyn" class="Shaman" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Gertrudd" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Golemiqhrast" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
@@ -68,7 +77,6 @@
   <PLAYER name="Habipkata" class="Rogue" rank="Test" net="50" total="50" spent="0" hours="0" />
   <PLAYER name="Harinder" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Hatemenoww" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Herkules" class="Paladin" rank="Test" net="50" total="50" spent="0" hours="0" />
   <PLAYER name="Holydragon" class="Priest" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Holygirlbg" class="Druid" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Icetricks" class="Mage" rank="Test" net="0" total="0" spent="0" hours="0" />
@@ -82,13 +90,13 @@
   <PLAYER name="Katafalkaa" class="Priest" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Kocicha" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Koitovzima" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Kulvacha" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Lisablackpnk" class="Warlock" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Lonewolf" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Malkospicham" class="Priest" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Mantta" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Masura" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Matilda" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Metriver" class="Druid" rank="Test" net="150" total="150" spent="0" hours="0" />
   <PLAYER name="Mucinka" class="Shaman" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Neridi" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Nexso" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
@@ -99,7 +107,6 @@
   <PLAYER name="Onefaith" class="Shaman" rank="Test" net="250" total="250" spent="0" hours="0" />
   <PLAYER name="Onzi" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Oommi" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Ophirianwow" class="Mage" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Orees" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ornadeon" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Palavaa" class="Paladin" rank="Test" net="300" total="350" spent="50" hours="0" />
@@ -115,13 +122,13 @@
   <PLAYER name="Radihunter" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ramonwa" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Rauc" class="Warrior" rank="Test" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Reblly" class="Paladin" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Rockssana" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Roguejoker" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Rollayton" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Rumjanna" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Rumpi" class="Mage" rank="Test" net="600" total="600" spent="0" hours="0" />
   <PLAYER name="Sapmistress" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Savagedenka" class="Warlock" rank="Test" net="200" total="200" spent="0" hours="0" />
-  <PLAYER name="Scyeleonora" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Selenah" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Shadolche" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Shadowvision" class="Priest" rank="Test" net="100" total="100" spent="0" hours="0" />
@@ -151,7 +158,6 @@
   <PLAYER name="Ukrotitel" class="Hunter" rank="Test" net="300" total="300" spent="0" hours="0" />
   <PLAYER name="Valkhara" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Vikulina" class="Rogue" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Vilss" class="Druid" rank="Test" net="500" total="500" spent="0" hours="0" />
   <PLAYER name="Virginiya" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Waltonbg" class="Paladin" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Whitewarrs" class="Warrior" rank="Test" net="250" total="250" spent="0" hours="0" />
@@ -160,7 +166,6 @@
   <PLAYER name="Xepkyvec" class="Priest" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Xjorkata" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Yrgh" class="Warrior" rank="Test" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Zarazniq" class="Warrior" rank="Test" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Zesscutee" class="Warlock" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Zpeshevg" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Zwwerr" class="Death Knight" rank="Test" net="100" total="100" spent="0" hours="0" />
@@ -172,6 +177,7 @@
   <PLAYER name="Boombardman" class="Druid" rank="Member" net="1200" total="1200" spent="0" hours="0" />
   <PLAYER name="Borqnka" class="Death Knight" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Brudelaa" class="Death Knight" rank="Member" net="1390" total="2370" spent="980" hours="0" />
+  <PLAYER name="Catmagnet" class="Hunter" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Chargeing" class="Warrior" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Choconutty" class="Druid" rank="Member" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Crazyrage" class="Warrior" rank="Member" net="300" total="300" spent="0" hours="0" />
@@ -181,11 +187,11 @@
   <PLAYER name="Drajencitoo" class="Rogue" rank="Member" net="1150" total="1200" spent="50" hours="0" />
   <PLAYER name="Dudutwobg" class="Druid" rank="Member" net="1500" total="1500" spent="0" hours="0" />
   <PLAYER name="Ednookiqwily" class="Warrior" rank="Member" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Emsihelara" class="Priest" rank="Member" net="1000" total="1000" spent="0" hours="0" />
   <PLAYER name="Erkech" class="Death Knight" rank="Member" net="720" total="2040" spent="1320" hours="0" />
   <PLAYER name="Fireclaw" class="Mage" rank="Member" net="350" total="350" spent="0" hours="0" />
   <PLAYER name="Gaycorp" class="Mage" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Gimsong" class="Paladin" rank="Member" net="1050" total="1200" spent="150" hours="0" />
+  <PLAYER name="Herkules" class="Paladin" rank="Member" net="50" total="50" spent="0" hours="0" />
   <PLAYER name="Hollyrekt" class="Paladin" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ihrina" class="Rogue" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ikalgo" class="Death Knight" rank="Member" net="0" total="0" spent="0" hours="0" />
@@ -200,7 +206,7 @@
   <PLAYER name="Mamchetoo" class="Shaman" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Martysd" class="Paladin" rank="Member" net="500" total="500" spent="0" hours="0" />
   <PLAYER name="Merohhero" class="Rogue" rank="Member" net="390" total="2400" spent="2010" hours="0" />
-  <PLAYER name="Mogege" class="Mage" rank="Member" net="1760" total="4400" spent="2640" hours="0" />
+  <PLAYER name="Metriver" class="Druid" rank="Member" net="150" total="150" spent="0" hours="0" />
   <PLAYER name="Monityy" class="Hunter" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Monoblock" class="Mage" rank="Member" net="800" total="800" spent="0" hours="0" />
   <PLAYER name="Motorbout" class="Warrior" rank="Member" net="100" total="100" spent="0" hours="0" />
@@ -213,7 +219,6 @@
   <PLAYER name="Pulio" class="Warlock" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Qpex" class="Shaman" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Rachbaba" class="Druid" rank="Member" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Rinascente" class="Paladin" rank="Member" net="1770" total="2900" spent="1130" hours="0" />
   <PLAYER name="Roxera" class="Hunter" rank="Member" net="690" total="1000" spent="310" hours="0" />
   <PLAYER name="Shadowxqt" class="Priest" rank="Member" net="1200" total="1200" spent="0" hours="0" />
   <PLAYER name="Stealhand" class="Paladin" rank="Member" net="100" total="100" spent="0" hours="0" />
@@ -233,6 +238,7 @@
   <PLAYER name="Youcnt" class="Mage" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Yulkata" class="Rogue" rank="Member" net="350" total="350" spent="0" hours="0" />
   <PLAYER name="Zagorqlka" class="Hunter" rank="Member" net="200" total="200" spent="0" hours="0" />
+  <PLAYER name="Zitta" class="Warrior" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Zorrakk" class="Warrior" rank="Member" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Zynnaa" class="Hunter" rank="Member" net="80" total="80" spent="0" hours="0" />
   <PLAYER name="Healinglolz" class="Priest" rank="Alt" net="0" total="0" spent="0" hours="0" />
@@ -252,7 +258,6 @@
   <PLAYER name="Alexabliss" main="Tuzaraxx" class="Priest" rank="Alt" net="3010" total="5750" spent="2740" hours="0" />
   <PLAYER name="Alexfood" main="Birenn" class="Priest" rank="Alt" net="580" total="700" spent="120" hours="0" />
   <PLAYER name="Aloaloll" class="Priest" rank="Alt" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Amoreith" main="Kzena" class="Druid" rank="Alt" net="2100" total="2100" spent="0" hours="0" />
   <PLAYER name="Angelshi" main="Troposphere" class="Death Knight" rank="Alt" net="1810" total="6000" spent="4190" hours="0" />
   <PLAYER name="Aratame" main="Justpretty" class="Hunter" rank="Alt" net="2310" total="4320" spent="2010" hours="0" />
   <PLAYER name="Arcanerage" class="Druid" rank="Alt" net="0" total="0" spent="0" hours="0" />
@@ -264,6 +269,7 @@
   <PLAYER name="Aveleia" main="Unuphri" class="Paladin" rank="Alt" net="1150" total="1150" spent="0" hours="0" />
   <PLAYER name="Babbameca" main="Piratka" class="Mage" rank="Alt" net="550" total="550" spent="0" hours="0" />
   <PLAYER name="Bagerko" main="Olekotitel" class="Shaman" rank="Alt" net="100" total="100" spent="0" hours="0" />
+  <PLAYER name="Bagrqna" class="Death Knight" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Basill" main="Tigreall" class="Mage" rank="Alt" net="1890" total="2300" spent="410" hours="0" />
   <PLAYER name="Beatris" main="Kuchka" class="Death Knight" rank="Alt" net="2380" total="2400" spent="20" hours="0" />
   <PLAYER name="Beatrisa" main="Kuchka" class="Paladin" rank="Alt" net="2380" total="2400" spent="20" hours="0" />
@@ -292,14 +298,16 @@
   <PLAYER name="Crashdown" main="Crazyrage" class="Paladin" rank="Alt" net="300" total="300" spent="0" hours="0" />
   <PLAYER name="Cringege" main="Kotarakk" class="Mage" rank="Alt" net="2870" total="3330" spent="460" hours="0" />
   <PLAYER name="Daarnavann" main="Glowin" class="Hunter" rank="Alt" net="830" total="2190" spent="1360" hours="0" />
-  <PLAYER name="Darrak" main="Zitta" class="Death Knight" rank="Alt" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Darrak" main="Zitta" class="Death Knight" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ddaniel" main="Hollyrekt" class="Warrior" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Delen" main="Lathien" class="Druid" rank="Alt" net="650" total="900" spent="250" hours="0" />
   <PLAYER name="Demonnlady" main="Glowin" class="Warlock" rank="Alt" net="830" total="2190" spent="1360" hours="0" />
   <PLAYER name="Depotatche" main="Dzhibrov" class="Mage" rank="Alt" net="3140" total="5400" spent="2260" hours="0" />
   <PLAYER name="Dermata" main="Naroxx" class="Rogue" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Dototty" main="Drunkblade" class="Warlock" rank="Alt" net="2040" total="6095" spent="4055" hours="0" />
+  <PLAYER name="Driskopriest" main="Borqnka" class="Priest" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Druidxdl" main="Justpretty" class="Druid" rank="Alt" net="2310" total="4320" spent="2010" hours="0" />
+  <PLAYER name="Dudubgbg" class="Druid" rank="Alt" net="50" total="50" spent="0" hours="0" />
   <PLAYER name="Dudubgbgbgbg" main="Dudutwobg" class="Priest" rank="Alt" net="1500" total="1500" spent="0" hours="0" />
   <PLAYER name="Econt" main="Rinascente" class="Mage" rank="Alt" net="1770" total="2900" spent="1130" hours="0" />
   <PLAYER name="Ecstazsy" main="Psychopillz" class="Warlock" rank="Alt" net="650" total="650" spent="0" hours="0" />
@@ -307,13 +315,11 @@
   <PLAYER name="Elaiza" main="Syrry" class="Druid" rank="Alt" net="2040" total="5980" spent="3940" hours="0" />
   <PLAYER name="Elfche" main="Syrry" class="Priest" rank="Alt" net="2040" total="5980" spent="3940" hours="0" />
   <PLAYER name="Elophie" main="Sacrilegius" class="Paladin" rank="Alt" net="1970" total="4170" spent="2200" hours="0" />
-  <PLAYER name="Elunitha" class="Priest" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Emmaella" main="Lathien" class="Paladin" rank="Alt" net="650" total="900" spent="250" hours="0" />
   <PLAYER name="Emmaiya" class="Paladin" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Engifire" main="Troposphere" class="Mage" rank="Alt" net="1810" total="6000" spent="4190" hours="0" />
   <PLAYER name="Fatnub" main="Bearty" class="Paladin" rank="Alt" net="250" total="250" spent="0" hours="0" />
   <PLAYER name="Feelmyzap" main="Troposphere" class="Shaman" rank="Alt" net="1810" total="6000" spent="4190" hours="0" />
-  <PLAYER name="Furionfury" main="Justpretty" class="Warrior" rank="Alt" net="2310" total="4320" spent="2010" hours="0" />
   <PLAYER name="Galea" class="Warrior" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Gamem" main="Imorrtall" class="Priest" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Gamemm" main="Imorrtall" class="Mage" rank="Alt" net="100" total="100" spent="0" hours="0" />
@@ -350,13 +356,12 @@
   <PLAYER name="Kumchovalcho" main="Ainnslley" class="Paladin" rank="Alt" net="420" total="420" spent="0" hours="0" />
   <PLAYER name="Kuramaboli" main="Tigreall" class="Hunter" rank="Alt" net="1890" total="2300" spent="410" hours="0" />
   <PLAYER name="Kurvet" main="Gimsong" class="Warlock" rank="Alt" net="1050" total="1200" spent="150" hours="0" />
+  <PLAYER name="Kurzaushev" class="Priest" rank="Alt" net="50" total="50" spent="0" hours="0" />
   <PLAYER name="Laani" main="Syrry" class="Warrior" rank="Alt" net="2040" total="5980" spent="3940" hours="0" />
   <PLAYER name="Leenock" class="Warlock" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Leviathas" main="Lisablackpnk" class="Warrior" rank="Alt" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Livingmoogo" main="Drunkblade" class="Death Knight" rank="Alt" net="2040" total="6095" spent="4055" hours="0" />
   <PLAYER name="Lmaoprankd" main="Kotarakk" class="Hunter" rank="Alt" net="2870" total="3330" spent="460" hours="0" />
   <PLAYER name="Lonelygussy" class="Rogue" rank="Alt" net="200" total="200" spent="0" hours="0" />
-  <PLAYER name="Mahovik" main="Whitewarrs" class="Mage" rank="Alt" net="250" total="250" spent="0" hours="0" />
   <PLAYER name="Majestiic" main="Shadowxqt" class="Mage" rank="Alt" net="1200" total="1200" spent="0" hours="0" />
   <PLAYER name="Manawait" main="Ganetsa" class="Mage" rank="Alt" net="200" total="200" spent="0" hours="0" />
   <PLAYER name="Mantisia" main="Biggcrit" class="Priest" rank="Alt" net="50" total="250" spent="200" hours="0" />
@@ -377,7 +382,6 @@
   <PLAYER name="Nanoxx" main="Naroxx" class="Death Knight" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Narcomancery" main="Psychopillz" class="Paladin" rank="Alt" net="650" total="650" spent="0" hours="0" />
   <PLAYER name="Nategach" main="Kartecharov" class="Rogue" rank="Alt" net="900" total="1000" spent="100" hours="0" />
-  <PLAYER name="Nedislav" main="Crucioqq" class="Priest" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Nerathis" main="Aurelian" class="Warrior" rank="Alt" net="2445" total="4880" spent="2435" hours="0" />
   <PLAYER name="Nevenom" main="Kotarakk" class="Rogue" rank="Alt" net="2870" total="3330" spent="460" hours="0" />
   <PLAYER name="Nyxandra" main="Aurelian" class="Paladin" rank="Alt" net="2445" total="4880" spent="2435" hours="0" />
@@ -386,6 +390,7 @@
   <PLAYER name="Onnis" main="Syrry" class="Paladin" rank="Alt" net="2040" total="5980" spent="3940" hours="0" />
   <PLAYER name="Onttop" main="Imorrtall" class="Warrior" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ostanizaobqd" main="Proff" class="Mage" rank="Alt" net="730" total="1300" spent="570" hours="0" />
+  <PLAYER name="Palkamalka" main="Borqnka" class="Paladin" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Pendelikokar" main="Rumpi" class="Druid" rank="Alt" net="600" total="600" spent="0" hours="0" />
   <PLAYER name="Perfidia" main="Justpretty" class="Mage" rank="Alt" net="2310" total="4320" spent="2010" hours="0" />
   <PLAYER name="Petkanka" main="Sulioo" class="Druid" rank="Alt" net="350" total="350" spent="0" hours="0" />
@@ -398,7 +403,6 @@
   <PLAYER name="Prirodnamuka" class="Druid" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Privatte" class="Warlock" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Pureblackk" class="Mage" rank="Alt" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Qpataq" main="Kartecharov" class="Priest" rank="Alt" net="900" total="1000" spent="100" hours="0" />
   <PLAYER name="Ramkangaroo" main="Kirstenhd" class="Paladin" rank="Alt" net="400" total="550" spent="150" hours="0" />
   <PLAYER name="Reboria" main="Sacrilegius" class="Druid" rank="Alt" net="1970" total="4170" spent="2200" hours="0" />
   <PLAYER name="Retart" class="Mage" rank="Alt" net="230" total="230" spent="0" hours="0" />
@@ -433,7 +437,6 @@
   <PLAYER name="Taniq" main="Roxera" class="Paladin" rank="Alt" net="690" total="1000" spent="310" hours="0" />
   <PLAYER name="Tartaleta" main="Clayss" class="Warrior" rank="Alt" net="620" total="620" spent="0" hours="0" />
   <PLAYER name="Tastia" main="Deliburan" class="Paladin" rank="Alt" net="1880" total="2250" spent="370" hours="0" />
-  <PLAYER name="Theshadowed" main="Troposphere" class="Priest" rank="Alt" net="1810" total="6000" spent="4190" hours="0" />
   <PLAYER name="Thezara" main="Phorix" class="Priest" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Toptankwarr" main="Troposphere" class="Warrior" rank="Alt" net="1810" total="6000" spent="4190" hours="0" />
   <PLAYER name="Tyroonn" main="Emsihelara" class="Hunter" rank="Alt" net="1000" total="1000" spent="0" hours="0" />
@@ -453,8 +456,7 @@
   <PLAYER name="Wildroar" main="Rinascente" class="Druid" rank="Alt" net="1770" total="2900" spent="1130" hours="0" />
   <PLAYER name="Workforsushi" main="Dudutwobg" class="Hunter" rank="Alt" net="1500" total="1500" spent="0" hours="0" />
   <PLAYER name="Xecate" main="Wissky" class="Warlock" rank="Alt" net="150" total="150" spent="0" hours="0" />
-  <PLAYER name="Zitta" class="Warrior" rank="Alt" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Zittaa" main="Zitta" class="Rogue" rank="Alt" net="0" total="0" spent="0" hours="0" />
+  <PLAYER name="Zittaa" main="Zitta" class="Rogue" rank="Alt" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Ziziza" class="Priest" rank="Alt" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Arylle" class="Priest" rank="Veteran" net="400" total="400" spent="0" hours="0" />
   <PLAYER name="Autootpad" class="Warrior" rank="Veteran" net="100" total="100" spent="0" hours="0" />
@@ -464,13 +466,13 @@
   <PLAYER name="Clayss" class="Paladin" rank="Veteran" net="620" total="620" spent="0" hours="0" />
   <PLAYER name="Damnlife" class="Warlock" rank="Veteran" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Deliburan" class="Shaman" rank="Veteran" net="1880" total="2250" spent="370" hours="0" />
+  <PLAYER name="Emsihelara" class="Priest" rank="Veteran" net="1000" total="1000" spent="0" hours="0" />
   <PLAYER name="Fiddlearch" main="Phanya" class="Hunter" rank="Veteran" net="1660" total="5150" spent="3490" hours="0" />
   <PLAYER name="Floxyy" class="Mage" rank="Veteran" net="750" total="750" spent="0" hours="0" />
   <PLAYER name="Ganetsa" class="Warrior" rank="Veteran" net="200" total="200" spent="0" hours="0" />
   <PLAYER name="Glowin" class="Death Knight" rank="Veteran" net="830" total="2190" spent="1360" hours="0" />
   <PLAYER name="Heavymelee" class="Paladin" rank="Veteran" net="250" total="250" spent="0" hours="0" />
   <PLAYER name="Imorrtall" class="Paladin" rank="Veteran" net="100" total="100" spent="0" hours="0" />
-  <PLAYER name="Justpretty" class="Paladin" rank="Veteran" net="2310" total="4320" spent="2010" hours="0" />
   <PLAYER name="Kotarakk" class="Druid" rank="Veteran" net="2870" total="3330" spent="460" hours="0" />
   <PLAYER name="Kottka" class="Druid" rank="Veteran" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Kurtamivki" class="Rogue" rank="Veteran" net="1200" total="2750" spent="1550" hours="0" />
@@ -481,25 +483,24 @@
   <PLAYER name="Narkodilur" class="Rogue" rank="Veteran" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Naroxx" class="Paladin" rank="Veteran" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Nespokoen" class="Warrior" rank="Veteran" net="450" total="450" spent="0" hours="0" />
-  <PLAYER name="Notmissqt" class="Death Knight" rank="Veteran" net="0" total="0" spent="0" hours="0" />
   <PLAYER name="Patrichko" class="Warlock" rank="Veteran" net="1450" total="1450" spent="0" hours="0" />
   <PLAYER name="Phanya" class="Druid" rank="Veteran" net="1660" total="5150" spent="3490" hours="0" />
   <PLAYER name="Piratka" class="Priest" rank="Veteran" net="550" total="550" spent="0" hours="0" />
   <PLAYER name="Potatoplox" class="Warrior" rank="Veteran" net="2030" total="3900" spent="1870" hours="0" />
   <PLAYER name="Proff" class="Paladin" rank="Veteran" net="730" total="1300" spent="570" hours="0" />
   <PLAYER name="Publicenemyy" class="Death Knight" rank="Veteran" net="500" total="500" spent="0" hours="0" />
+  <PLAYER name="Rinascente" class="Paladin" rank="Veteran" net="1770" total="2900" spent="1130" hours="0" />
   <PLAYER name="Sacrilegius" class="Mage" rank="Veteran" net="1970" total="4170" spent="2200" hours="0" />
   <PLAYER name="Sikorengo" main="Phanya" class="Rogue" rank="Veteran" net="1660" total="5150" spent="3490" hours="0" />
-  <PLAYER name="Spaso" main="Phanya" class="Death Knight" rank="Veteran" net="1660" total="5150" spent="3490" hours="0" />
   <PLAYER name="Tankofdodge" class="Paladin" rank="Veteran" net="150" total="150" spent="0" hours="0" />
   <PLAYER name="Thun" class="Hunter" rank="Veteran" net="730" total="730" spent="0" hours="0" />
   <PLAYER name="Toshko" main="Labav" class="Hunter" rank="Veteran" net="1430" total="2550" spent="1120" hours="0" />
   <PLAYER name="Troposphere" class="Hunter" rank="Veteran" net="1810" total="6000" spent="4190" hours="0" />
   <PLAYER name="Tuzaraxx" class="Warlock" rank="Veteran" net="3010" total="5750" spent="2740" hours="0" />
+  <PLAYER name="Vilss" class="Druid" rank="Veteran" net="500" total="500" spent="0" hours="0" />
   <PLAYER name="Aurelian" class="Warrior" rank="Officer" net="2445" total="4880" spent="2435" hours="0" />
   <PLAYER name="Bancigans" class="Mage" rank="Officer" net="350" total="350" spent="0" hours="0" />
   <PLAYER name="Caaustick" main="Kataira" class="Paladin" rank="Officer" net="1780" total="4400" spent="2620" hours="0" />
-  <PLAYER name="Catterpilar" main="Phanya" class="Druid" rank="Officer" net="1660" total="5150" spent="3490" hours="0" />
   <PLAYER name="Claya" main="Kuchka" class="Warrior" rank="Officer" net="2380" total="2400" spent="20" hours="0" />
   <PLAYER name="Drunkblade" class="Warrior" rank="Officer" net="2040" total="6095" spent="4055" hours="0" />
   <PLAYER name="Dzhibrov" class="Warrior" rank="Officer" net="3140" total="5400" spent="2260" hours="0" />
@@ -512,15 +513,4 @@
   <PLAYER name="Kiimura" main="Kiylian" class="Death Knight" rank="CO-GM" net="3010" total="6120" spent="3110" hours="0" />
   <PLAYER name="Syrry" class="Hunter" rank="CO-GM" net="2040" total="5980" spent="3940" hours="0" />
   <PLAYER name="Kiylian" class="Mage" rank="Guild Master" net="3010" total="6120" spent="3110" hours="0" />
-  <PLAYER name="Xshadezz" main="Tuzaraxx" class="Mage" rank="*External*" net="3010" total="5750" spent="2740" hours="0" />
-  <PLAYER name="Rozzalina" main="Fckingtot" class="Mage" rank="*External*" net="500" total="1650" spent="1150" hours="0" />
-  <PLAYER name="Kriviahui" class="Warrior" rank="*External*" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Veellia" class="Shaman" rank="*External*" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Alarelaana" main="Kurtamivki" class="Druid" rank="*External*" net="1200" total="2750" spent="1550" hours="0" />
-  <PLAYER name="Amorfis" main="Kzena" class="Death Knight" rank="*External*" net="2100" total="2100" spent="0" hours="0" />
-  <PLAYER name="Adventture" main="Publicenemyy" class="Shaman" rank="*External*" net="500" total="500" spent="0" hours="0" />
-  <PLAYER name="Bloodndy" class="Death Knight" rank="*External*" net="0" total="0" spent="0" hours="0" />
-  <PLAYER name="Slackmaster" main="Kuchka" class="Druid" rank="*External*" net="2380" total="2400" spent="20" hours="0" />
-  <PLAYER name="Silentpower" main="Drunkblade" class="Warrior" rank="*External*" net="2040" total="6095" spent="4055" hours="0" />
-  <PLAYER name="Wilitaner" main="Bintarlz" class="Shaman" rank="*External*" net="900" total="2550" spent="1650" hours="0" />
 </QDKP2EXPORT-DKP>
