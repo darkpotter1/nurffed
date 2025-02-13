@@ -21,11 +21,11 @@ document.getElementById('searchInput').addEventListener('keydown', function(even
                         var name = players[i].getAttribute("name");
                         if (name.toLowerCase()===(input.toLowerCase())) {
                             found = true;
-                            resultDiv.innerHTML += "<p>Намерено съвпадение: " + name + "</br> (настоящо: " + players[i].getAttribute("net") + ", общо: " + players[i].getAttribute("total") + ")</p>";
+                            resultDiv.innerHTML += "<span>Намерено съвпадение: " + name + "</br> (настоящо: " + players[i].getAttribute("net") + ", общо: " + players[i].getAttribute("total") + ")</span>";
                         }
                     }
                     if (!found) {
-                        resultDiv.innerHTML = "<p>Няма намерени съвпадения.</p>";
+                        resultDiv.innerHTML = "<span>Няма намерени съвпадения.</span>";
                     }
                 }
             };

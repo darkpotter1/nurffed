@@ -10,10 +10,11 @@ body {
     background-position: center;
     margin:0;
 }
-    h1 {
+    h1 {         
         font-family:Verdana, Geneva, Tahoma, sans-serif;
         font-weight: 700;
         color: white; 
+        border: 1px dotted lightcyan;
     }  
     label {
         color: white;
@@ -28,9 +29,13 @@ body {
         text-align: center;        
     }
     #result { 
+        margin-top:20px;
         color: white;
-        background-color: black;
+        
     }
+    span {
+      font-size:30px;
+      background-color: black;}
     button {
     margin-top:1px;
     appearance: none;
