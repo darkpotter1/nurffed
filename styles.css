@@ -94,4 +94,8 @@ body {
                 justify-content: center;
                 margin-top:30vh;
                 }
+                span 
+                {
+                font-size:20px;
+                }
       }
