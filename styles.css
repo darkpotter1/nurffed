@@ -24,7 +24,8 @@ body {
         margin-top:2px;
         color: white;
         font-size: 20px;
-        background-color: black;              
+        background-color: black;      
+        text-align: center;        
     }
     #result { 
         color: white;
@@ -73,4 +74,19 @@ body {
         box-shadow: rgba(0, 0, 0, .1) 0 3px 6px 0, rgba(0, 0, 0, .1) 0 0 10px 0, rgba(0, 0, 0, .1) 0 1px 4px -1px;
         transform: translateX(2px);
         transition-duration: .35s;
+      }
+     
+      @media (max-width: 768px) {
+        body {
+            background-image:url('./images/background-mobile.avif');
+            background-position-y:0px;
+            background-size:cover% ;
+             }
+             .container
+                { 
+                display:grid;
+                align-items: center;
+                justify-content: center;
+                margin-top:30vh;
+                }
       }
