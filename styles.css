@@ -26,7 +26,9 @@ body {
         color: white;
         font-size: 20px;
         background-color: black;      
-        text-align: center;        
+        text-align: center;     
+        border-style: solid;
+        border-color:white;   
     }
     #result { 
         margin-top:20px;
@@ -43,6 +45,7 @@ body {
     background-color: #2f80ed;
     border-radius: 10px;
     border-style: solid;
+    border-color:white;
     box-shadow: none;
     box-sizing: border-box;
     color: #fff;
@@ -80,7 +83,15 @@ body {
         transform: translateX(2px);
         transition-duration: .35s;
       }
-     
+      @media (min-width: 768px) {
+      .container{
+        position:absolute;
+        top: 20%; /* Позициониране на контейнера 20% от горната част на body */
+        left: 15%; /* Позициониране на контейнера 30% от лявата част на body */
+        width: 70%; /* Ширина на контейнера */
+        height: 50%; /* Височина на контейнера */ 
+      }
+    }
       @media (max-width: 768px) {
         body {
             background-image:url('./images/background-mobile.avif');
@@ -89,6 +100,7 @@ body {
              }
              .container
                 { 
+                position:normal;
                 display:grid;
                 align-items: center;
                 justify-content: center;
