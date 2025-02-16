@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
-<QDKP2EXPORT-DKP list="guild" time="17.02.25 01:00 ч." guild="Kimura" exporter="Labav" >
+<QDKP2EXPORT-DKP list="guild" time="17.02.25 01:00" guild="Kimura" exporter="Labav" >
   <PLAYER name="Gertrudd" class="Druid" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Pistollera" class="Hunter" rank="Test" net="100" total="100" spent="0" hours="0" />
   <PLAYER name="Bloodndy" class="Death Knight" rank="Member" net="200" total="200" spent="0" hours="0" />
